@@ -1,0 +1,8 @@
+├── app/
+│ ├── Dockerfile
+│ ├── myfile.txt
+│ ├── node_modules/
+│ ├── pacakge.json
+│ ├── spec/
+│ ├── src/
+│ └── yarn.lock
